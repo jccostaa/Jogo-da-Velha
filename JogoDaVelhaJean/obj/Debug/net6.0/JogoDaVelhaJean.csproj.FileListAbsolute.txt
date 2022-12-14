@@ -1,0 +1,15 @@
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.csproj.AssemblyReference.cache
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.AssemblyInfoInputs.cache
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.AssemblyInfo.cs
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\bin\Debug\net6.0\JogoDaVelhaJean.exe
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\bin\Debug\net6.0\JogoDaVelhaJean.deps.json
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\bin\Debug\net6.0\JogoDaVelhaJean.runtimeconfig.json
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\bin\Debug\net6.0\JogoDaVelhaJean.dll
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\bin\Debug\net6.0\JogoDaVelhaJean.pdb
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.dll
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\refint\JogoDaVelhaJean.dll
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.pdb
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\JogoDaVelhaJean.genruntimeconfig.cache
+C:\Users\Jean\source\repos\JogoDaVelhaJean\JogoDaVelhaJean\obj\Debug\net6.0\ref\JogoDaVelhaJean.dll
