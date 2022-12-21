@@ -6,7 +6,7 @@ no futuro, conseguir uma vaga de emprego onde vou poder aprimorar ainda mais meu
 
 <p> É um jogo da velha simples de dois jogadores em que usei variáveis para renderizar a tabela, ler a escolha de cada jogador 
 onde apliquei um TryParse para transformar a string digitada em um int e ler se o numero representado está dentro da array, 
-verificar disponibilidade e também um try/catch caso haja uma IndexOutOfRangeException, após cada jogada o programa verifica se há 
+verificar disponibilidade e também um try/catch caso haja uma IndexOutOfRangeException, após a quinta jogada o programa verifica se há 
 o fim do jogo seja ele com alguem vencendo ou havendo um empate
 
 
